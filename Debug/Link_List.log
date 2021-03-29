@@ -1,0 +1,4 @@
+﻿  Link_List.cpp
+e:\c++ project\link_list\link_list\link_list.cpp(26): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Link_List.vcxproj -> E:\C++ Project\Link_List\Debug\Link_List.exe
+  Link_List.vcxproj -> E:\C++ Project\Link_List\Debug\Link_List.pdb (Partial PDB)
